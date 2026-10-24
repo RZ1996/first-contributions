@@ -117,6 +117,7 @@ I am V I HEMASHREE [https://github.com/HemashreeVI] "THIS IS MY FIRST CONTRIBUTI
 - [Santhosh Sharma](https://github.com/santhoshsharrma)
 - [Ishwar Anpat](https://github.com/ishwar261-oss)
 - [Dev Gaglani](https://github.com/Quantum-Coded)
+- [Robert Zamocnik](https://github.com/RZ1996)
 -[Pabitra](https://github.com/Pabitraojha)
 -[Anusha](https://github.com/bharaiahchattu)''This is my first open source contribution on github 
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
